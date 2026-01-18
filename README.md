@@ -47,4 +47,3 @@ To complete the service, the next steps include:
 
 ---
 
-If you want, I can convert this into a **full README.md** including setup instructions, environment variables, running locally, and example API payloads.
