@@ -1,5 +1,7 @@
 ## 📘 Devops Capstone Project 
 
+![Build Status](https://github.com/ayanshaikh0525/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 The **Account Microservice** is designed to manage customer accounts for an e-commerce platform as part of a larger microservices architecture. This service exposes a RESTful API that allows other microservices—such as order processing, payment, and inventory—to reliably interact with customer data.
 
 ### 🎯 Scope of the Microservice
